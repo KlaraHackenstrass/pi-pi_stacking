@@ -12,6 +12,6 @@ Run this command as:
 
 step 3: Calculate the nr of stackings
 This scripts calculates the number of intra and intermolecular stackings either using the T-shaped or sandwich criteria. Run this script as:
-python3 -u analysis_pi_nr.py "name moleucle" "type of stacking: sandwich or T-shape"
+python3 -u analysis_pi_nr.py "name molecule" "type of stacking: sandwich or T-shape"
 example
 python3 -u analysis_pi_nr.py "Gbetao4G" T-shape
